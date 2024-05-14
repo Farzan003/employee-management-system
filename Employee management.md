@@ -1,6 +1,6 @@
-#Employee Management System
-##SQL Code
-###MEMBERS
+# Employee Management System
+## SQL Code
+### MEMBERS
 1) Zaid, BSE23F084
 2) Farzan, BSE23F080
 3) Mussadiq, BSE23F089
