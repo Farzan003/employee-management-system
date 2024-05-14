@@ -102,7 +102,7 @@ CREATE TABLE EmployeeTraining (\
     TrainingName VARCHAR(50),\
     TrainingDate DATE,\
     Trainer VARCHAR(50)\
-);
+);\
 SELECT* FROM Employees,DEPARTMENTS;\
 SELECT* FROM EMPLOYEES_ADRESSES,EmployeeContacts,EmployeeSkills,\
 EmployeeProjects,EmployeeReviews, EmployeeBenefits, EmployeeAttendance, EmployeeTraining;
